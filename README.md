@@ -1,4 +1,5 @@
 # Laporan_Project_ecommerce
+Link akses :tokothrift.rf.gd
 
 ﻿**TUGAS MEMBUAT E-COMMERCE BISNIS ELEKTRONIK** 
 
@@ -37,3 +38,5 @@ Nama Kelompok :
 ![](Aspose.Words.594b025f-a4b1-45af-a74a-b1ea355adfd6.013.jpeg)
 
 ![](Aspose.Words.594b025f-a4b1-45af-a74a-b1ea355adfd6.014.jpeg)
+
+Link akses : tokothrift.rd.gd
